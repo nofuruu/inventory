@@ -12,9 +12,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="<?= base_url('public/assets/css/main.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('public/assets/css/styles.css') ?>">
     <link rel="stylesheet" href="<?= base_url('public/assets/css/sweetalert2.min.css') ?>">
-    <link rel="stylesheet" href="<?= base_url('public/assets/css/style.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('public/assets/css/main.css') ?>">
 
     <!-- JS -->
     <script src="<?= base_url('public/assets/js/jquery.min.js') ?>"></script>
