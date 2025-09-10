@@ -23,7 +23,7 @@
 
     <style>
         body {
-            background-color: #111827;
+            background-color: #ff0077ff;
             font-family: 'Inter', sans-serif;
             margin: 0;
         }
